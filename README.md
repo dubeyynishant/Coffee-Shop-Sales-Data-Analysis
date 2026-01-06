@@ -149,18 +149,6 @@ http://localhost:8501
 
 ---
 
-## 📁 Further Enhancements
-
-You can extend this project by adding:
-
-✔ Time-based filters in the dashboard
-✔ Forecasting using machine learning
-✔ Real-time data integration
-✔ Export to PDF/Image
-✔ User authentication
-
----
-
 ## 👤 Author
 
 **Nishant Dubey**
